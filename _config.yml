@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 title: "Lukáš Mitrik" 
-description: "Short profile portfolio"
+description:
 logo: /Profile1_compressed.JPG
 
